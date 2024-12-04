@@ -1,0 +1,8 @@
+.employeeItem {
+    width: 98%;
+    height: 16%;
+    border: 2px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}

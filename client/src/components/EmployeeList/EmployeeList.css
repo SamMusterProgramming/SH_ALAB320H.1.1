@@ -1,11 +1,10 @@
-.wrapper{
+.employeeList {
+    width: 98%;
+    height: 84%;
+    border: 2px solid pink;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: start;
-    width: 49%;
-    height: 99%;
-    border: 2px solid orange;
-    gap:1px;
-  }
-  
+    gap:2px
+}

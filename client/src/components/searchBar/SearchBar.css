@@ -1,0 +1,18 @@
+.search{
+    width: 98%;
+    height: 7%;
+    border: 2px solid rgb(6, 126, 36);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+input {
+    height: 80%;
+    width: 98%;
+    border:1px solid lightgray ;
+    border-radius: 10px;
+    padding: 1px;
+    font-size: 13px;
+    text-align: center;
+}
