@@ -1,8 +1,21 @@
 .employeeItem {
-    width: 98%;
-    height: 16%;
+    width: 99%;
+    height: 12%;
     border: 2px solid red;
     display: flex;
     align-items: center;
     justify-content: start;
+}
+img {
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    margin-left: 10px;
+}
+.profile {
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    margin-bottom: 20px;
 }

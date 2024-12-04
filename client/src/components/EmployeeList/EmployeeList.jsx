@@ -6,21 +6,41 @@ import EmployeeListItems from '../employeeListItems/EmployeeListItems'
 const EmployeeList = () => {
   
   const employees = [{
-    name:"Samir",
-    profile_img:'../assets/avatar.avif',
+    name:"Samir Haddadi",
+    profile_img:'./assets/avatar.avif',
     title: "cleaner lol "
-  },
+  },    
   {
-    name:"Nesta",
-    profile_img:'../assets/avatar.avif',
+    name:"Nesta Parchment",
+    profile_img:'./assets/avatar.avif',
     title: "Director "
   },
   ,
   {
-    name:"Tishana",
-    profile_img:'../assets/avatar.avif',
+    name:"Tishana Trainor",   
+    profile_img:'./assets/avatar.avif',
+    title: "Instructor"
+  },{
+    name:"Samir Haddadi",
+    profile_img:'./assets/avatar.avif',
+    title: "cleaner lol "
+  },    
+  {
+    name:"Nesta Parchment",
+    profile_img:'./assets/avatar.avif',
+    title: "Director "
+  },
+  ,
+  {
+    name:"Tishana Trainor",   
+    profile_img:'./assets/avatar.avif',
     title: "Instructor"
   },
+  {
+    name:"Manara The Goat",
+    profile_img:'./assets/avatar.avif',
+    title: "Javascript Expert"
+  }
  ] 
 
 
