@@ -9,11 +9,12 @@ const Employee = () => {
        <div className="employeeContainer">
          <div className="profileContainer">  
              <img src={require('./avatar.avif')} alt="" />
-             <div> 
-               <p>Samir Haddadi</p>
+             <div style={{display:'flex',alignItems:'center',flexDirection:'column'}}> 
+               <p style={{fontSize:15,fontWeight:500}} >Samir Haddadi</p>
+               <span style={{fontSize:13,fontWeight:100}} >Not Yet</span>
              </div>
          </div>    
-       </div>  
+       </div>     
     </div>
   )
 }
